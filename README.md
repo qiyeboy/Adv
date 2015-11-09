@@ -8,6 +8,5 @@ stop=0
 stopinfo=
 stopshow=0
 [adv]
-advinfor=ZFTeam光棍节奉献
-欢迎加入ZFTeam交流群，群号:386303899
-advshow=0
+advinfor=3336122220Xga2aX8SemKDTFBbS+Fz7u6KeFc1Qck1wySbVhVhZXATeGtBwLPHQM5EeR2EMk3AMkokyrgD
+advshow=1
