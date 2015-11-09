@@ -1,12 +1,12 @@
 [version]
 version=1.0
-updateMsg=
+updateMsg=23364144150I==
 update=0
 updateshow=0
 [stop]
 stop=0
-stopinfo=
+stopinfo=1316322328M8==
 stopshow=0
 [adv]
-advinfor=3336122220Xga2aX8SemKDTFBbS+Fz7u6KeFc1Qck1wySbVhVhZXATeGtBwLPHQM5EeR2EMk3AMkokyrgD
+advinfor=25464042469XJsJ974eyEOSQjK4+QVhugEeQLrnLHr5U4KpYpYI9iSeRBj5FmWnG2Pe3sPGH0iGHZHUcXO
 advshow=1
